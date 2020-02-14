@@ -1,12 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="767be54c-9be2-49a5-b579-418ee85673c3" name="Default Changelist" comment="add .gitignore">
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="767be54c-9be2-49a5-b579-418ee85673c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/todos/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/todos/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/todos/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/todos/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/todos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/todos/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/todos/.idea/todos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/todos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/todos/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Table/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/prop-types/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/prop-types/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/prop-types/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/prop-types/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/prop-types/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/prop-types/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/prop-types/checkPropTypes.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/prop-types/checkPropTypes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/prop-types/factory.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/prop-types/factory.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/prop-types/factoryWithThrowingShims.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/prop-types/factoryWithThrowingShims.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/prop-types/factoryWithTypeCheckers.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/prop-types/factoryWithTypeCheckers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/prop-types/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/prop-types/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/prop-types/lib/ReactPropTypesSecret.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/prop-types/lib/ReactPropTypesSecret.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/prop-types/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/prop-types/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/prop-types/prop-types.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/prop-types/prop-types.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/actions/actionTypes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/actions/getUsers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Todos/Todo/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Todos/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/containers/Main/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/reducers/appReducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/reducers/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/todos/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/todos/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/todos/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/todos/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/todos/src/components/AddTodo.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/todos/src/components/AddTodo.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +68,7 @@
         <entry key="$PROJECT_DIR$/client" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client/src/todos" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1XfjHCinUzhhsMy0VNqDIqcjvAH" />
@@ -37,14 +77,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.3" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -54,11 +99,13 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/client" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Arkh\Desktop\study\CooWorks\client\src" />
+      <recent name="C:\Users\Arkh\Desktop\study\CooWorks\client\src\components\TodosTutor\Todo" />
+      <recent name="$PROJECT_DIR$/client" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -88,8 +135,17 @@
       <workItem from="1581500181830" duration="1237000" />
       <workItem from="1581505052459" duration="1355000" />
       <workItem from="1581520579800" duration="13000" />
-      <workItem from="1581668135079" duration="3747000" />
+      <workItem from="1581668135079" duration="9334000" />
+      <workItem from="1581689916181" duration="1306000" />
     </task>
+    <task id="LOCAL-00001" summary="add koa-server">
+      <created>1581672992022</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581672992022</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +172,7 @@
       <path value="$PROJECT_DIR$/client" />
     </ignored-roots>
     <MESSAGE value="add .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="add .gitignore" />
+    <MESSAGE value="add koa-server" />
+    <option name="LAST_COMMIT_MESSAGE" value="add koa-server" />
   </component>
 </project>
